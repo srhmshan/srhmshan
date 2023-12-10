@@ -1,11 +1,4 @@
-## 💗Greetings! My name is Shaniah Rose Hope M. Sumaoang ✧ 🫧
-### I am a **3rd Year Computer Engineering Student** at Technological Institute of the Philippines ✨
-
 ![gif](https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966)
-
-
-- 🧁 I’m currently learning **Managing Enterprise Servers & CCNA: Switching, Routing, and Wireless Essentials (SRWE)** 
-- 💌 How to reach me: qsrhmsumaoang@tip.edu.ph
 
 
 ![](https://komarev.com/ghpvc/?username=srhmshan&style=for-the-badge)
